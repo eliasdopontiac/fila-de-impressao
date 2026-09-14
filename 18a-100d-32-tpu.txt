@@ -1,0 +1,10 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"90-02122024-025954";"";
+"REFERENCE";"18A-100D-32-TPU";"";
+"TraceParts.PartTitle";"18 series medium-sized wheel 18A-100D-32-TPU";"";
+"TraceParts.InstanceId";"90-02122024-0259542N3XX9WWY2MK673V115V3T3RA";"";
+"SUPPLIER";"Quanzhou Zhuoye Caster";"";
+"DESIGN";"18 series medium-sized wheel 18A-100D-32-TPU";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.PartVersion";"1.0.1";"";
